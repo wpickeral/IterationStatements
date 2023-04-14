@@ -1,0 +1,15 @@
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.csproj.AssemblyReference.cache
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.AssemblyInfoInputs.cache
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.AssemblyInfo.cs
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.csproj.CoreCompileInputs.cache
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/bin/Debug/net7.0/iteration-statements-ex-1
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/bin/Debug/net7.0/iteration-statements-ex-1.deps.json
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/bin/Debug/net7.0/iteration-statements-ex-1.runtimeconfig.json
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/bin/Debug/net7.0/iteration-statements-ex-1.dll
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/bin/Debug/net7.0/iteration-statements-ex-1.pdb
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.dll
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/refint/iteration-statements-ex-1.dll
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.pdb
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/iteration-statements-ex-1.genruntimeconfig.cache
+/Users/williampickeral/TrueCoders/repos/iteration-statements-ex-1/obj/Debug/net7.0/ref/iteration-statements-ex-1.dll
